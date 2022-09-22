@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>My Orders</title>
+    <style>
+        :root {
+            --very-light-pink: #C7C7C7;
+            --white: #FFFFFF;
+            --white-hover: #e3ffe6;
+            --text--input-field: #f7f7f7;
+            --black: #000000;
+            --hospital-green: #ACD9B2;
+            --hospital-green-hover:  #97d9a0;
+            --dark: #232830;
+            --sm: 14px;
+            --md: 16px;
+            --lg: 18px;
+        }
+        body {
+            margin: 0;
+            font-family: 'Quicksand', sans-serif;
+        }
+        .my-orders {
+            width: 100%;
+            height: 100vh;
+            display: grid;
+            place-items: center;
+        }
+        .title {
+            font-size: var(--lg);
+            margin: 0 0 47px;
+        }
+        .my-orders-container {
+            display: grid;
+            grid-template-rows: auto 1fr auto;
+            padding: 87px 0 ;
+            width: 435px;
+        }
+        .my-orders-content {
+            display: flex;
+            flex-direction: column;
+        }
+        .my-orders-content .order:nth-child(odd){
+            background-color: var(--text--input-field);
+        }
+        .order {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 16px;
+            align-items: center;
+            background-color: var(--text-input-field);
+            border: 1px solid var(--black);
+            box-shadow: 6px 6px 6px rgba(89, 74, 30, 0.2);margin-bottom: 24px;
+            border-radius: 8px;
+            padding: 0 12px;
+            height: 76px;
+        }
+        .order p:nth-child(1) {
+            display: flex;
+            flex-direction: column;
+        }
+        .order p span:nth-child(1) {
+            font-size: var(--md);
+            font-weight: bold;
+        }
+        .order p span:nth-child(2) {
+            font-size: var(--sm);
+            color: var(--very-light-pink);
+        }
+        .order p:nth-child(2) {
+            text-align: end;
+            font-weight: bold;
+        }
+        .order p:nth-child(2) a {
+            margin-left: 23px;
+        }
+    </style>
+</head>
+<body>
+    <div class="my-orders">
+        <div class="my-orders-container">
+            <h1 class="title">My orders</h1>        
+            <div class="my-orders-content">
+                <div class="order">
+                    <p>
+                        <span>09.21.22</span>
+                        <span>4 articles</span>
+                    </p>
+                    <p>
+                        <span>$731.00</span>
+                        <a href="./my_order.html">
+                            <img src="./icons/flechita.svg" alt="arrow">
+                        </a>
+                    </p>
+                </div>
+                <div class="order">
+                    <p>
+                        <span>08.20.22</span>
+                        <span>4 articles</span>
+                    </p>
+                    <p>
+                        <span>$731.00</span>
+                        <a src="./my_order.html">
+                            <img src="./icons/flechita.svg" alt="arrow">
+                        </a>
+                    </p>
+                </div>
+                <div class="order">
+                    <p>
+                        <span>07.19.22</span>
+                        <span>4 articles</span>
+                    </p>
+                    <p>
+                        <span>$731.00</span>
+                        <a href="./my_order.html">
+                            <img src="./icons/flechita.svg" alt="arrow">
+                        </a>
+                    </p>
+                </div>
+                <div class="order">
+                    <p>
+                        <span>06.18.22</span>
+                        <span>4 articles</span>
+                    </p>
+                    <p> 
+                        <span>$731.00</span>
+                        <a href="./my_order.html">
+                            <img src="./icons/flechita.svg" alt="arrow">
+                        </a>
+                    </p>
+                </div>
+                <div class="order">
+                    <p>
+                        <span>05.17.22</span>
+                        <span>4 articles</span>
+                    </p>
+                    <p>
+                        <span>$731.00</span>
+                        <a href="./my_order.html">
+                            <img src="./icons/flechita.svg" alt="arrow">
+                        </a>
+                    </p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>
