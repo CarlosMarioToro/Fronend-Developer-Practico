@@ -4,17 +4,16 @@
 
 ## Live pages
 
- - [index](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/index.html)
- - [account](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/account.html)
- - [email-sent](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/email-sent.html)
- - [login](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/login.html)
- - [menu-desktop](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/menu-desktop.html)
- - [menu-mobile](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/menu-mobile.html)
- - [my-account](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/my_account.html)
- - [my-order](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/my-order.html)
- - [new-pass](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/new-pass.html)
- - [orders-history](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/orders-history.html)
- - [product-detail](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/product-detail.html)
- - [shopping-cart](https://pikyr.github.io/cursoFrontendDeveloper/yardSale/shopping-cart.html)
-
- https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/my_account.html
+ - [Create Account](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/create_account.html)
+ - [Home Menu](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/home_menu.html)
+ - [Home 1](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/home1.html)
+ - [Index](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/index.html)
+ - [Login](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/login.html)
+ - [Menu 2](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/menu2.html)
+ - [My Account](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/my_account.html)
+ - [My Order](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/my_order.html)
+ - [My Orders](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/My_orders.html)
+ - [Navbar](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/navbar.html)
+ - [New Password](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/new_password.html)
+ - [Password Recovery 2](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/password_recovery2.html)
+ - [Product Details](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/product_details.html)
