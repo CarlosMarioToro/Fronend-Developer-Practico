@@ -2,8 +2,6 @@
 
 # Yard Sale
 
-## Live pages
-
  - [Create Account](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/create_account.html)
  - [Home Menu](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/home_menu.html)
  - [Home 1](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/home1.html)
@@ -15,5 +13,5 @@
  - [My Orders](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/My_orders.html)
  - [Navbar](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/navbar.html)
  - [New Password](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/new_password.html)
- - [Password Recovery 2](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/password_recovery2.html)
+ - [Password Recovery](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/password_recovery2.html)
  - [Product Details](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/product_details.html)
