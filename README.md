@@ -15,3 +15,4 @@
  - [New Password](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/new_password.html)
  - [Password Recovery](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/password_recovery2.html)
  - [Product Details](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/product_details.html)
+ - [Shopping Cart](https://carlosmariotoro.github.io/Fronend-Developer-Practico.github.io/shopping_cart2.html)
